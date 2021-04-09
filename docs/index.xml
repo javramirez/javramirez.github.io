@@ -1,46 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller de Producto 2021 on jr.lab - Taller Productos 2021</title>
+    <title>Taller de Producto 2021 on Javier Ramirez - MID 2021</title>
     <link>https://javramirez.github.io/docs/</link>
-    <description>Recent content in Taller de Producto 2021 on jr.lab - Taller Productos 2021</description>
+    <description>Recent content in Taller de Producto 2021 on Javier Ramirez - MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://javramirez.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>JAVIER RAMIREZ MORENO</title>
-      <link>https://javramirez.github.io/docs/yo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://javramirez.github.io/docs/yo/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
       <title>SILLA ESTRAT</title>
-      <link>https://javramirez.github.io/docs/siilla-/</link>
+      <link>https://javramirez.github.io/docs/silla-estrat/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://javramirez.github.io/docs/siilla-/</guid>
+      <guid>https://javramirez.github.io/docs/silla-estrat/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://javramirez.github.io/docs/markdown/</link>
+      <title>Silla Laminas</title>
+      <link>https://javramirez.github.io/docs/silla-laminas/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://javramirez.github.io/docs/markdown/</guid>
+      <guid>https://javramirez.github.io/docs/silla-laminas/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://javramirez.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://javramirez.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
